@@ -1,0 +1,24 @@
+#EXTM3U
+
+# ===== ALBANIA =====
+#EXTINF:-1 group-title="Albania",RTSH 1
+#EXTINF:-1 group-title="Albania",RTSH 2
+#EXTINF:-1 group-title="Albania",Top Channel
+#EXTINF:-1 group-title="Albania",Klan TV
+
+# ===== KOSOVO =====
+#EXTINF:-1 group-title="Kosovo",RTK 1
+#EXTINF:-1 group-title="Kosovo",RTK 2
+#EXTINF:-1 group-title="Kosovo",Klan Kosova
+#EXTINF:-1 group-title="Kosovo",T7
+
+# ===== MAQEDONI =====
+#EXTINF:-1 group-title="Maqedoni",Alsat M
+#EXTINF:-1 group-title="Maqedoni",TV Shenja
+#EXTINF:-1 group-title="Maqedoni",Kanal 5
+
+# ===== GJERMANI =====
+#EXTINF:-1 group-title="Germany",Das Erste
+#EXTINF:-1 group-title="Germany",ZDF
+#EXTINF:-1 group-title="Germany",RTL
+#EXTINF:-1 group-title="Germany",ProSieben
